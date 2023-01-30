@@ -12,7 +12,7 @@
   - Code Running Commands
 - Technologies Used
 - Conclusion
-- Team
+
 
 
 ## What is DeepFake?
